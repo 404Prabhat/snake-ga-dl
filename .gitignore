@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+ga/best_genome.pkl
+dl/dqn.pt
+.DS_Store
